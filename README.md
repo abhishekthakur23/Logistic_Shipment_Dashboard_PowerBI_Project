@@ -8,3 +8,5 @@ The Logistics Dashboard tracks operations from January 2022 to December 2024, co
 - Revenue by Category: Office equipment leads with $681K, followed by Computing ($506K), and Audio ($336K).
 - Performance by Sales Team: Individual salespeople are evaluated based on shipment counts, including completed, returned, and active statuses.
 - The dashboard's intuitive interface and granular data allow logistics teams to optimize processes, evaluate regional trends, and maximize revenue through improved shipment management and delivery strategies.
+
+![Logistic_Dashboard](https://github.com/user-attachments/assets/b3c076a8-6dbe-49c3-a2e2-fcdf0965024b)
